@@ -91,6 +91,7 @@ nav a:hover {
 /* Estilos para o container do conteúdo */
 .container {
     background-color: white;
+    display: block;
     min-width: 300px;
     max-width: 1000px;
     height: 100%;
